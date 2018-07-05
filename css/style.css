@@ -1,0 +1,137 @@
+body, html {
+  height:100%;
+  margin:0;
+  font-size: 16px;
+  /* font-family: "Lato", sans-serif; */
+  font-family:"AUdimat";
+  /* font-family: 'Roboto'; */
+  font-style: light;
+  src:url(../fonts/AUdimat_Regular.ttf)
+  font-weight:330;
+  line-height: 1.7em;
+  color:#666;
+
+}
+header {
+  background: #000000;
+  padding: 5px 5px 35px 5px;
+
+}
+
+.container{
+  width: 70%;
+  margin: 0;
+  color: black
+
+}
+nav{
+  float: right;
+}
+nav ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+}
+nav li{
+  display: inline-block;
+  margin-left: 70px;
+
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color:gray;
+}
+.pimg1, .pimg2, .pimg3 {
+  position: relative;
+  opacity: 0.70;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+.pimg1{
+  background-image: url('../img/image1.jpg');
+  min-height: 900px;
+}
+
+.pimg2{
+  background-image: url('../img/image2.jpg');
+  min-height: 0px;
+}
+
+.pimg3{
+  background-image: url('../img/image3.jpg');
+  min-height: 500px;
+}
+
+.section{
+  text-align: center;
+  padding: 50px 80px;
+
+}
+
+.section-light{
+  background-color: #d7f5ff  ;
+  color:#666;
+  min-height: 800px;
+
+
+}
+
+.section-dark{
+  background-color: #282e34;
+  color: #ddd;
+  min-height: 300px;
+}
+
+
+.ptext{
+  position: absolute;
+  top:15%;
+  left:25%;
+  right:25%;
+  text-align: center;
+  color:#000000;
+  font-size: 40px;
+  /* font-weight: bold; */
+  letter-spacing: 7px;
+  text-transform: uppercase;
+  /* line-height: 85%; */
+}
+
+.stext{
+  font-size: 20px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  line-height: 1.6;
+}
+.ptext .border{
+  /* background-color:	#F0F0F0	; */ */
+  color:#000000;
+  /* opacity: 0.6; */
+}
+
+.fa:hover {
+    opacity: 0.6;
+}
+
+.fa {
+  color:#000000;
+  padding: 3px;
+  font-size: 10px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3px 2px;
+}
+
+.ptext .border.trans{
+  background-color: transparent;
+}
