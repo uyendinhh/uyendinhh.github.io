@@ -33,17 +33,18 @@ nav ul{
 }
 nav li{
   display: inline-block;
-  margin-left: 70px;
+  margin-left: 85px;
 
 }
 nav a {
   color: white;
   text-decoration: none;
-  text-transform: uppercase;
+  font-size: 20px;
 }
 
 nav a:hover {
-  color:gray;
+  /* color:gray; */
+  text-decoration: underline;
 }
 .pimg1, .pimg2, .pimg3 {
   position: relative;
@@ -51,7 +52,7 @@ nav a:hover {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
 
 }
 .pimg1{
@@ -60,13 +61,14 @@ nav a:hover {
 }
 
 .pimg2{
-  background-image: url('../img/image2.jpg');
-  min-height: 0px;
+  background-image: url('../img/image10.jpg');
+  min-height: 100%;
 }
 
 .pimg3{
   background-image: url('../img/image3.jpg');
-  min-height: 500px;
+  background-position: center;
+  min-height: 400px;
 }
 
 .section{
@@ -76,17 +78,17 @@ nav a:hover {
 }
 
 .section-light{
-  background-color: #d7f5ff  ;
-  color:#666;
-  min-height: 800px;
+  width: 100%;
+  height: auto;
 
 
 }
 
 .section-dark{
-  background-color: #282e34;
+  background-color: #000000;
   color: #ddd;
   min-height: 300px;
+  opacity: 0.4;
 }
 
 
