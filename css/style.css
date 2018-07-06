@@ -13,18 +13,18 @@ body, html {
 header {
   background: #000000;
   padding: 5px 5px 35px 5px;
-
 }
 
 .container{
   width: 70%;
   margin: 0;
   color: black
-
 }
+
 nav{
   float: right;
 }
+
 nav ul{
   margin: 0;
   padding: 0;
@@ -34,16 +34,54 @@ nav ul{
 nav li{
   display: inline-block;
   margin-left: 85px;
-
 }
+
 nav a {
   color: white;
   text-decoration: none;
-  font-size: 20px;
+}
+@media screen and (min-width: 550px) {
+  nav a {
+    font-size: 20px;
+  }
+  .stext{
+    font-size: 20px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    line-height: 1.6;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  nav li {
+    margin-left:15px;
+    float:left;
+  }
+  nav a {
+    font-size: 15px;
+    min-width: 25%;
+  }
+  .pimg1 {
+    max-width: 25%;
+  }
+  .border {
+    font-size: 25px;
+  }
+  .stext {
+    font-size:3px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.6;
+  }
+  .body {
+    font-size: 12px;
+  }
+  .iconWrapper {
+    font-size: 24px;
+  }
 }
 
 nav a:hover {
-  /* color:gray; */
   text-decoration: underline;
 }
 .pimg1, .pimg2, .pimg3 {
@@ -57,18 +95,18 @@ nav a:hover {
 }
 .pimg1{
   background-image: url('../img/image1.jpg');
-  min-height: 900px;
+  min-height:100%;
+  max-width: 100%;
 }
 
 .pimg2{
-  background-image: url('../img/image10.jpg');
-  min-height: 100%;
+  background-image: url('../img/image7.jpg');
+  min-width: 85%;
 }
 
 .pimg3{
-  background-image: url('../img/image3.jpg');
-  background-position: center;
-  min-height: 400px;
+  background-image: url('../img/image1.pdf');
+  min-height: 100%;
 }
 
 .section{
@@ -80,6 +118,7 @@ nav a:hover {
 .section-light{
   width: 100%;
   height: auto;
+  position: left;
 
 
 }
@@ -100,10 +139,8 @@ nav a:hover {
   text-align: center;
   color:#000000;
   font-size: 40px;
-  /* font-weight: bold; */
   letter-spacing: 7px;
   text-transform: uppercase;
-  /* line-height: 85%; */
 }
 
 .stext{
@@ -112,6 +149,7 @@ nav a:hover {
   text-transform: uppercase;
   line-height: 1.6;
 }
+
 .ptext .border{
   /* background-color:	#F0F0F0	; */ */
   color:#000000;
@@ -132,6 +170,6 @@ nav a:hover {
   margin: 3px 2px;
 }
 
-.ptext .border.trans{
+/* .ptext .border.trans{
   background-color: transparent;
-}
+} */
