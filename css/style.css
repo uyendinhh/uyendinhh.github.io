@@ -204,6 +204,8 @@ nav a:hover {
 }
 .click-here {
   text-decoration: none;
+  font-weight: 700;
+  color: black;
 }
 .click-here:hover {
   text-decoration: underline;
