@@ -61,12 +61,7 @@ nav a {
   color: white;
   text-decoration: none;
 }
-@supports(padding: max(0px)) {
-    .post {
-        padding-left: max(12px, constant(safe-area-inset-left));
-        padding-right: max(12px, constant(safe-area-inset-right));
-    }
-}
+
 @media screen and (min-width: 600px) {
   nav a {
     font-size: 20px;
@@ -172,18 +167,19 @@ nav a:hover {
 
 
 .pimg1 {
+
+}
+.pimg1{
+  background-image: url('../img/image1.jpg');
+  min-height: 100%;
+  max-width: 100%;
   position: static;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 
-}
-.pimg1{
-  background-image: url('../img/image1.jpg');
-  min-height: 100%;
-  min-width: 18%;
-  max-width: 100%;
+
 }
 
 .section{
@@ -302,7 +298,7 @@ div.desc {
 
 @media only screen and (max-width: 700px) {
     .responsive {
-        width: 49.99999%;
+        width: 10%;
         height: 50%;
         margin: 6px 0;
     }
