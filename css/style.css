@@ -102,6 +102,12 @@ nav a {
 }
 
 @media screen and (max-width:600px) {
+  .pimg1 {
+    background-position: left;
+  }
+  .about-myname {
+    font-size: 14px;
+  }
   nav li{
     display: inline-block;
     margin: 2%;
