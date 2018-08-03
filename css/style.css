@@ -7,6 +7,8 @@ body, html {
   font-weight: 300;
   line-height: 1.7em;
   color:#666;
+  min-width: 350px;
+
 }
 
 
@@ -25,7 +27,6 @@ header::after {
 
 .container{
   font-family: 'Marvel';
-  font-weight: bold;
   font-weight: lighter;
   background-color: black;
   width: 100%;
@@ -84,7 +85,7 @@ nav a {
     right:25%;
     text-align: center;
     color:#505050;
-    font-size: 40px;
+    font-size: 42px;
     letter-spacing: 7px;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -92,6 +93,11 @@ nav a {
   }
   .border {
     padding-left: 5%;
+  }
+  .about-details {
+    text-align: center;
+    font-size: 21px;
+    letter-spacing: 1px;
   }
 
 }
@@ -133,7 +139,7 @@ nav a {
   }
 
   .iconWrapper {
-    font-size: 24px;
+    font-size: 35px;
   }
   .ptext{
     padding-top: 20%;
@@ -148,13 +154,14 @@ nav a {
     letter-spacing: 4px;
     line-height: 0.8;
   }
+  .about-details {
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
 }
 
-.about-details {
-  text-align: center;
-  font-size: 21px;
-  letter-spacing: 0px;
-}
+
 .about-title {
   font-style: 'Marvel';
   font-weight: 300;
@@ -166,9 +173,7 @@ nav a:hover {
 }
 
 
-.pimg1 {
 
-}
 .pimg1{
   background-image: url('../img/image1.jpg');
   min-height: 100%;
@@ -207,7 +212,7 @@ nav a:hover {
 .click-here {
   text-decoration: none;
   font-weight: 700;
-  color: black;
+  color: #4E4A4A;
 }
 .click-here:hover {
   text-decoration: underline;
