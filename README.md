@@ -1,2 +1,2 @@
 # uyendinhh.github.io
-# https://uyendinh.me
+# http://uyendinh.me/
