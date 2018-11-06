@@ -1,5 +1,5 @@
 var fancyText = document.getElementById('nameFancy');
-var intervalTime = 170;
+var intervalTime = 180;
 var initialPause = 1000;
 var callbackPause = 700;
 
@@ -42,7 +42,7 @@ setTimeout(function() {
           deleteContent(function() {
               addContent("a learner", function() {
                   deleteContent(function() {
-                      addContent("Uyen");
+                      addContent("Uyen Dinh");
                   });
               });
           });
@@ -58,14 +58,12 @@ function repeat() {
               deleteContent(function() {
                   addContent("a learner", function() {
                       deleteContent(function() {
-                          addContent("Uyen");
+                          addContent("Uyen Dinh");
                           repeat();
-
                       });
                   });
               });
           });
       });
     }, initialPause);
-
 }

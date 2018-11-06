@@ -277,9 +277,10 @@ div.desc {
   font-size: 0px;
 }
 .responsive {
+    filter: drop-shadow(100px 5px 10px rgba(0,0,0,0.3))
     padding: 0 6px;
     float: left;
-    width: 24.99999%;
+    width: 24.99%;
     height: 24.999%;
 }
 
