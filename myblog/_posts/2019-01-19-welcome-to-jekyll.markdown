@@ -6,7 +6,8 @@ categories: jekyll update
 ---
 
 
-I was too caught up with the ideas of getting good grades and finding good jobs that I forgot to enjoy my life. Life isn't always easy and isn't  supposed to be. So here are 100 things I want to do, not necessary "100 things to do before I die"  cuz I don't want to feel the obligation to do so. If I do try something in this list out, it has to be for the pure joy/experience that I want to have, not anything else.
+I was too caught up with the ideas of getting good grades and finding good jobs that I forgot to enjoy my life.
+Life isn't always easy and isn't  supposed to be. So here are 100 things I want to do, not necessary "100 things to do before I die"  cuz I don't want to feel the obligation to do so. If I do try something in this list out, it has to be for the pure joy/experience that I want to have, not anything else.
 
 
 Cheers :)
