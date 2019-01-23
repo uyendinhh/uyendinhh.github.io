@@ -12,12 +12,12 @@ Life isn't always easy and isn't  supposed to be. So here are 100 things I want 
 
 Cheers :)
 
-
+1. Dance in the rain <br>
 2. See Northern lights <br>
 3. Go to Griffith Observatory  <br>
 4. Live in another country for at least 3 months and learn their language <br>
-5. <strike> See the volcano </strike> 
-6. <strike> Camp on top of a mountain to see stars </strike> 
+5. <strike> See the volcano </strike>
+6. <strike> Camp on top of a mountain to see stars </strike>
 7. Go skiing <br>
 8. Visit Japan <br>
 9. Eat that freaking expensive Kobe beef <br>
@@ -26,17 +26,17 @@ Cheers :)
 12. Scream out loud on top of a mountain <br>
 13. Make someone laugh to tear <br>
 14. Visit South Africa <br>
-15. <strike>Sleep in the forest </strike> 
-16. <strike> Experience Spring, Summer, and Winter in 1 day </strike> 
+15. <strike>Sleep in the forest </strike>
+16. <strike> Experience Spring, Summer, and Winter in 1 day </strike>
 17. <strike> Mauna Kea stargazing </strike>
-18. <strike> Let go of a floating lantern </strike> 
+18. <strike> Let go of a floating lantern </strike>
 19. Climb the Grand Canyon <br>
 20. Do a traveling video, upload it on youtube and get 1 thousand views haha <br>
 21. <strike>Volunteer at an orphan </strike>
 22. <strike>Donate blood </strike>
 23. <strike>Try kayaking </strike>
 24. <strike>Let someone know how much they mean to you </strike>
-25. <strike> Perform an act without wanting something in return </strike> 
+25. <strike> Perform an act without wanting something in return </strike>
 26. Give a hug to everyone you see in a day <br>
 27. Be a mentor to someone <br>
 28. Fly in a hot air balloon <br>
